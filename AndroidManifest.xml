@@ -104,10 +104,7 @@
             </intent-filter>
         </provider>
         <provider android:authorities="com.samsung.ssu.provider" android:enabled="true" android:exported="true" android:name="com.samsung.ssu.provider.SsuLockStateProvider" android:permission="com.samsung.ssu.provider"/>
-        <activity android:exported="true" android:multiprocess="true" android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity" android:taskAffinity="" android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-            </intent-filter>
+        <activity android:exported="false" android:multiprocess="true" android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity" android:taskAffinity="" android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme">
         </activity>
         <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
             <intent-filter>
