@@ -170,7 +170,7 @@
 
     const-string p1, "Activity started without extras"
 
-    invoke-static {v1, p1}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
+    invoke-static {v1, p1}, Landroid/util/Log;->w(Ljava/lang/String;Ljava/lang/String;)I
 
     invoke-virtual {p0}, Landroid/app/Activity;->finish()V
 
@@ -202,7 +202,7 @@
     :cond_2
     const-string p1, "Activity started without resolution"
 
-    invoke-static {v1, p1}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
+    invoke-static {v1, p1}, Landroid/util/Log;->w(Ljava/lang/String;Ljava/lang/String;)I
 
     invoke-virtual {p0}, Landroid/app/Activity;->finish()V
 
