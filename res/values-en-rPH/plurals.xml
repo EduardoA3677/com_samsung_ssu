@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">"Your phone's service provider settings need to be updated. If your phone isn't updated in %d days, you won't be able to make calls, send messages, or use mobile data."</item>
+        <item quantity="one">"Your phone's service provider settings need to be updated. If your phone isn't updated in %d day, you won't be able to make calls, send messages, or use mobile data."</item>
+        <item quantity="two">"Your phone's service provider settings need to be updated. If your phone isn't updated in %d days, you won't be able to make calls, send messages, or use mobile data."</item>
+        <item quantity="few">"Your phone's service provider settings need to be updated. If your phone isn't updated in %d days, you won't be able to make calls, send messages, or use mobile data."</item>
+        <item quantity="many">"Your phone's service provider settings need to be updated. If your phone isn't updated in %d days, you won't be able to make calls, send messages, or use mobile data."</item>
+        <item quantity="other">"Your phone's service provider settings need to be updated. If your phone isn't updated in %d days, you won't be able to make calls, send messages, or use mobile data."</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">"Your tablet's service provider settings need to be updated. If your tablet isn't updated in %d days, you won't be able to make calls, send messages, or use mobile data."</item>
+        <item quantity="one">"Your tablet's service provider settings need to be updated. If your tablet isn't updated in %d day, you won't be able to make calls, send messages, or use mobile data."</item>
+        <item quantity="two">"Your tablet's service provider settings need to be updated. If your tablet isn't updated in %d days, you won't be able to make calls, send messages, or use mobile data."</item>
+        <item quantity="few">"Your tablet's service provider settings need to be updated. If your tablet isn't updated in %d days, you won't be able to make calls, send messages, or use mobile data."</item>
+        <item quantity="many">"Your tablet's service provider settings need to be updated. If your tablet isn't updated in %d days, you won't be able to make calls, send messages, or use mobile data."</item>
+        <item quantity="other">"Your tablet's service provider settings need to be updated. If your tablet isn't updated in %d days, you won't be able to make calls, send messages, or use mobile data."</item>
+    </plurals>
+</resources>

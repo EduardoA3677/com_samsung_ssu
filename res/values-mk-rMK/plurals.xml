@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Поставувањата за операторот на Вашиот телефон треба да се ажурираат. Ако Вашиот телефон не е ажуриран %d ден, нема да можете да упатувате повици, да испраќате пораки или да користите мобилни податоци.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Поставувањата за операторот на Вашиот телефон треба да се ажурираат. Ако Вашиот телефон не е ажуриран %d дена, нема да можете да упатувате повици, да испраќате пораки или да користите мобилни податоци.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Поставувањата за операторот на Вашиот таблет треба да се ажурираат. Ако Вашиот таблет не е ажуриран %d ден, нема да можете да упатувате повици, да испраќате пораки или да користите мобилни податоци.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Поставувањата за операторот на Вашиот таблет треба да се ажурираат. Ако Вашиот таблет не е ажуриран %d дена, нема да можете да упатувате повици, да испраќате пораки или да користите мобилни податоци.</item>
+    </plurals>
+</resources>

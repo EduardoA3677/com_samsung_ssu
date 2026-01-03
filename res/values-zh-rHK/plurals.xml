@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">您手機的服務供應商設定需要更新。若手機未在 %d 天內更新，您將無法撥打電話、發送訊息或使用流動數據。</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">您平板電腦的服務供應商設定需要更新。若平板電腦未在 %d 天內更新，您將無法撥打電話、發送訊息或使用流動數據。</item>
+    </plurals>
+</resources>

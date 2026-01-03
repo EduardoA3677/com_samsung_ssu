@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">As configurações da operadora do seu telefone precisam ser atualizadas. Se o telefone não for atualizado em %d dia, você não poderá fazer chamadas, enviar mensagens ou usar dados móveis.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">As configurações da operadora do seu telefone precisam ser atualizadas. Se o telefone não for atualizado em %d dias, você não poderá fazer chamadas, enviar mensagens ou usar dados móveis.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">As configurações da operadora do seu tablet precisam ser atualizadas. Se o tablet não for atualizado em %d dia, você não poderá fazer chamadas, enviar mensagens ou usar dados móveis.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">As configurações da operadora do seu tablet precisam ser atualizadas. Se o tablet não for atualizado em %d dias, você não poderá fazer chamadas, enviar mensagens ou usar dados móveis.</item>
+    </plurals>
+</resources>

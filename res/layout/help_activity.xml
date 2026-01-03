@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.Toolbar android:theme="@style/Theme.AppCompat.DayNight" android:id="@id/help_toolbar" android:layout_width="match_parent" android:layout_height="?actionBarSize" />
+    <ScrollView android:layout_width="match_parent" android:layout_height="0.0dp" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:paddingLeft="24.0sp" android:paddingTop="12.0sp" android:paddingRight="24.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="19.0sp" android:textStyle="bold" android:id="@id/permUnlock_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ssu_perm_unlock_request_title" style="@style/description_text" />
+            <TextView android:id="@id/permUnlock_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0sp" android:layout_marginBottom="20.0sp" android:text="@string/ssu_help_perm_unlock" style="@style/description_text" />
+            <TextView android:textSize="19.0sp" android:textStyle="bold" android:id="@id/tempUnlock_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ssu_temp_unlock_request_title" style="@style/description_text" />
+            <TextView android:id="@id/tempUnlock_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0sp" android:layout_marginBottom="4.0sp" android:text="@string/ssu_help_temp_unlock" style="@style/description_text" />
+            <TextView android:id="@id/review_eligibility_policy" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ssu_tmo_link" style="@style/description_text" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

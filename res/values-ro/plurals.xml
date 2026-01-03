@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Setările furnizorului dvs. de servicii pentru telefon trebuie actualizate. Dacă telefonul nu este actualizat în %d zi, nu veți putea să efectuați apeluri, să trimiteți mesaje sau să utilizați datele mobile.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Setările furnizorului dvs. de servicii pentru telefon trebuie actualizate. Dacă telefonul nu este actualizat în %d zile, nu veți putea să efectuați apeluri, să trimiteți mesaje sau să utilizați datele mobile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Setările furnizorului dvs. de servicii pentru telefon trebuie actualizate. Dacă telefonul nu este actualizat în %d zile, nu veți putea să efectuați apeluri, să trimiteți mesaje sau să utilizați datele mobile.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Setările furnizorului dvs. de servicii pentru tabletă trebuie actualizate. Dacă tableta nu este actualizată în %d zi, nu veți putea să efectuați apeluri, să trimiteți mesaje sau să utilizați datele mobile.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Setările furnizorului dvs. de servicii pentru tabletă trebuie actualizate. Dacă tableta nu este actualizată în %d zile, nu veți putea să efectuați apeluri, să trimiteți mesaje sau să utilizați datele mobile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Setările furnizorului dvs. de servicii pentru tabletă trebuie actualizate. Dacă tableta nu este actualizată în %d zile, nu veți putea să efectuați apeluri, să trimiteți mesaje sau să utilizați datele mobile.</item>
+    </plurals>
+</resources>

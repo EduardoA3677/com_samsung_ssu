@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cilësimet e ofruesit të shërbimit për telefonin tënd kanë nevojë të përditësohen. Në qoftë se telefoni yt nuk përditësohet brenda %d dite, nuk do të mund të bësh thirrje, të dërgosh mesazhe ose të përdorësh të dhëna celulare.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Cilësimet e ofruesit të shërbimit për telefonin tënd kanë nevojë të përditësohen. Në qoftë se telefoni yt nuk përditësohet brenda %d ditësh, nuk do të mund të bësh thirrje, të dërgosh mesazhe ose të përdorësh të dhëna celulare.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cilësimet e ofruesit të shërbimit për tabletën tënde kanë nevojë të përditësohen. Në qoftë se tableta jote nuk përditësohet brenda %d dite, nuk do të mund të bësh thirrje, të dërgosh mesazhe ose të përdorësh të dhëna celulare.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Cilësimet e ofruesit të shërbimit për tabletën tënde kanë nevojë të përditësohen. Në qoftë se tableta jote nuk përditësohet brenda %d ditësh, nuk do të mund të bësh thirrje, të dërgosh mesazhe ose të përdorësh të dhëna celulare.</item>
+    </plurals>
+</resources>

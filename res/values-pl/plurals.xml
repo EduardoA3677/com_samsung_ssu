@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ustawienia dostawcy usług telefonu wymagają zaktualizowania. Jeśli telefon nie zostanie zaktualizowany za %d dzień, nie będziesz mieć możliwości nawiązywania połączeń, wysyłania wiadomości ani korzystania z danych komórkowych.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ustawienia dostawcy usług telefonu wymagają zaktualizowania. Jeśli telefon nie zostanie zaktualizowany za %d dni, nie będziesz mieć możliwości nawiązywania połączeń, wysyłania wiadomości ani korzystania z danych komórkowych.</item>
+        <item quantity="many">Ustawienia dostawcy usług telefonu wymagają zaktualizowania. Jeśli telefon nie zostanie zaktualizowany za %d dni, nie będziesz mieć możliwości nawiązywania połączeń, wysyłania wiadomości ani korzystania z danych komórkowych.</item>
+        <item quantity="other">Ustawienia dostawcy usług telefonu wymagają zaktualizowania. Jeśli telefon nie zostanie zaktualizowany za %d dnia, nie będziesz mieć możliwości nawiązywania połączeń, wysyłania wiadomości ani korzystania z danych komórkowych.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ustawienia dostawcy usług tabletu wymagają zaktualizowania. Jeśli tablet nie zostanie zaktualizowany za %d dzień, nie będziesz mieć możliwości nawiązywania połączeń, wysyłania wiadomości ani korzystania z danych komórkowych.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ustawienia dostawcy usług tabletu wymagają zaktualizowania. Jeśli tablet nie zostanie zaktualizowany za %d dni, nie będziesz mieć możliwości nawiązywania połączeń, wysyłania wiadomości ani korzystania z danych komórkowych.</item>
+        <item quantity="many">Ustawienia dostawcy usług tabletu wymagają zaktualizowania. Jeśli tablet nie zostanie zaktualizowany za %d dni, nie będziesz mieć możliwości nawiązywania połączeń, wysyłania wiadomości ani korzystania z danych komórkowych.</item>
+        <item quantity="other">Ustawienia dostawcy usług tabletu wymagają zaktualizowania. Jeśli tablet nie zostanie zaktualizowany za %d dnia, nie będziesz mieć możliwości nawiązywania połączeń, wysyłania wiadomości ani korzystania z danych komórkowych.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Les paramètres d'opérateur de votre téléphone doivent être mis à jour. Si vous ne mettez pas à jour votre téléphone d'ici %d jour, vous ne pourrez pas passer d'appels, envoyer de messages ni utiliser les données mobiles."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Les paramètres d'opérateur de votre téléphone doivent être mis à jour. Si vous ne mettez pas à jour votre téléphone d'ici %d jours, vous ne pourrez pas passer d'appels, envoyer de messages ni utiliser les données mobiles."</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Les paramètres d'opérateur de votre tablette doivent être mis à jour. Si vous ne mettez pas à jour votre tablette d'ici %d jour, vous ne pourrez pas passer d'appels, envoyer de messages ni utiliser les données mobiles."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Les paramètres d'opérateur de votre tablette doivent être mis à jour. Si vous ne mettez pas à jour votre tablette d'ici %d jours, vous ne pourrez pas passer d'appels, envoyer de messages ni utiliser les données mobiles."</item>
+    </plurals>
+</resources>

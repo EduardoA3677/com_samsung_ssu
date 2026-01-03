@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Die Dienstanbietereinstellungen deines Telefons müssen aktualisiert werden. Wenn dein Telefon nicht innerhalb von %d Tag aktualisiert wird, kannst du keine Anrufe tätigen, Nachrichten senden oder mobile Daten nutzen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Die Dienstanbietereinstellungen deines Telefons müssen aktualisiert werden. Wenn dein Telefon nicht innerhalb von %d Tagen aktualisiert wird, kannst du keine Anrufe tätigen, Nachrichten senden oder mobile Daten nutzen.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Die Dienstanbietereinstellungen deines Tablets müssen aktualisiert werden. Wenn dein Tablet nicht innerhalb von %d Tag aktualisiert wird, kannst du keine Anrufe tätigen, Nachrichten senden oder mobile Daten nutzen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Die Dienstanbietereinstellungen deines Tablets müssen aktualisiert werden. Wenn dein Tablet nicht innerhalb von %d Tagen aktualisiert wird, kannst du keine Anrufe tätigen, Nachrichten senden oder mobile Daten nutzen.</item>
+    </plurals>
+</resources>

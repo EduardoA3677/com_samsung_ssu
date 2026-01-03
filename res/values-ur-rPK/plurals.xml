@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آپ کے فون کی خدمت فراہم کنندہ کی سیٹنگز کو اپ ڈیٹ کرنا ہوگا۔ اگر آپ کے فون کو %d دن میں اپ ڈیٹ نہیں کیا جاتا ہے، تو آپ کالز نہیں کر پائیں گے، پیغامات نہیں بھیج پائیں گے یا موبائل ڈیٹا استعمال نہیں کر پائیں گے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">آپ کے فون کی خدمت فراہم کنندہ کی سیٹنگز کو اپ ڈیٹ کرنا ہوگا۔ اگر آپ کے فون کو %d دن میں اپ ڈیٹ نہیں کیا جاتا ہے، تو آپ کالز نہیں کر پائیں گے، پیغامات نہیں بھیج پائیں گے یا موبائل ڈیٹا استعمال نہیں کر پائیں گے۔</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آپ کے ٹیبلیٹ کی خدمت فراہم کنندہ کی سیٹنگز کو اپ ڈیٹ کرنا ہوگا۔ اگر آپ کے ٹیبلیٹ کو %d دن میں اپ ڈیٹ نہیں کیا جاتا ہے، تو آپ کالز نہیں کر پائیں گے، پیغامات نہیں بھیج پائیں گے یا موبائل ڈیٹا استعمال نہیں کر پائیں گے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">آپ کے ٹیبلیٹ کی خدمت فراہم کنندہ کی سیٹنگز کو اپ ڈیٹ کرنا ہوگا۔ اگر آپ کے ٹیبلیٹ کو %d دن میں اپ ڈیٹ نہیں کیا جاتا ہے، تو آپ کالز نہیں کر پائیں گے، پیغامات نہیں بھیج پائیں گے یا موبائل ڈیٹا استعمال نہیں کر پائیں گے۔</item>
+    </plurals>
+</resources>

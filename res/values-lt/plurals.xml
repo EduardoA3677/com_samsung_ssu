@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Reikia atnaujinti jūsų telefono paslaugų teikėjo nustatymus. Jei savo telefono neatnaujinsite per %d d., negalėsite skambinti, siųsti žinučių arba naudotis mobiliaisiais duomenimis.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Reikia atnaujinti jūsų telefono paslaugų teikėjo nustatymus. Jei savo telefono neatnaujinsite per %d d., negalėsite skambinti, siųsti žinučių arba naudotis mobiliaisiais duomenimis.</item>
+        <item quantity="many">Reikia atnaujinti jūsų telefono paslaugų teikėjo nustatymus. Jei savo telefono neatnaujinsite per %d d., negalėsite skambinti, siųsti žinučių arba naudotis mobiliaisiais duomenimis.</item>
+        <item quantity="other">Reikia atnaujinti jūsų telefono paslaugų teikėjo nustatymus. Jei savo telefono neatnaujinsite per %d d., negalėsite skambinti, siųsti žinučių arba naudotis mobiliaisiais duomenimis.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Reikia atnaujinti jūsų planšetinio kompiuterio paslaugų teikėjo nustatymus. Jei savo planšetinio kompiuterio neatnaujinsite per %d d., negalėsite skambinti, siųsti žinučių arba naudotis mobiliaisiais duomenimis.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Reikia atnaujinti jūsų planšetinio kompiuterio paslaugų teikėjo nustatymus. Jei savo planšetinio kompiuterio neatnaujinsite per %d d., negalėsite skambinti, siųsti žinučių arba naudotis mobiliaisiais duomenimis.</item>
+        <item quantity="many">Reikia atnaujinti jūsų planšetinio kompiuterio paslaugų teikėjo nustatymus. Jei savo planšetinio kompiuterio neatnaujinsite per %d d., negalėsite skambinti, siųsti žinučių arba naudotis mobiliaisiais duomenimis.</item>
+        <item quantity="other">Reikia atnaujinti jūsų planšetinio kompiuterio paslaugų teikėjo nustatymus. Jei savo planšetinio kompiuterio neatnaujinsite per %d d., negalėsite skambinti, siųsti žinučių arba naudotis mobiliaisiais duomenimis.</item>
+    </plurals>
+</resources>

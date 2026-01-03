@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Je potrebné aktualizovať nastavenia operátora telefónu. Ak telefón nebude v priebehu %d dňa aktualizovaný, nebudete môcť uskutočňovať hovory, odosielať správy ani používať mobilné dátové pripojenie.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Je potrebné aktualizovať nastavenia operátora telefónu. Ak telefón nebude v priebehu %d dní aktualizovaný, nebudete môcť uskutočňovať hovory, odosielať správy ani používať mobilné dátové pripojenie.</item>
+        <item quantity="many">Je potrebné aktualizovať nastavenia operátora telefónu. Ak telefón nebude v priebehu %d dňa aktualizovaný, nebudete môcť uskutočňovať hovory, odosielať správy ani používať mobilné dátové pripojenie.</item>
+        <item quantity="other">Je potrebné aktualizovať nastavenia operátora telefónu. Ak telefón nebude v priebehu %d dní aktualizovaný, nebudete môcť uskutočňovať hovory, odosielať správy ani používať mobilné dátové pripojenie.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Je potrebné aktualizovať nastavenia operátora tabletu. Ak tablet nebude v priebehu %d dňa aktualizovaný, nebudete môcť uskutočňovať hovory, odosielať správy ani používať mobilné dátové pripojenie.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Je potrebné aktualizovať nastavenia operátora tabletu. Ak tablet nebude v priebehu %d dní aktualizovaný, nebudete môcť uskutočňovať hovory, odosielať správy ani používať mobilné dátové pripojenie.</item>
+        <item quantity="many">Je potrebné aktualizovať nastavenia operátora tabletu. Ak tablet nebude v priebehu %d dňa aktualizovaný, nebudete môcť uskutočňovať hovory, odosielať správy ani používať mobilné dátové pripojenie.</item>
+        <item quantity="other">Je potrebné aktualizovať nastavenia operátora tabletu. Ak tablet nebude v priebehu %d dní aktualizovaný, nebudete môcť uskutočňovať hovory, odosielať správy ani používať mobilné dátové pripojenie.</item>
+    </plurals>
+</resources>

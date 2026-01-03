@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">端末のサービスプロバイダ設定を更新する必要があります。%d日以内にこの端末を更新しない場合、電話を発信したり、メッセージを送信したり、モバイルデータを使用したりすることができなくなります。</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">タブレットのサービスプロバイダ設定を更新する必要があります。%d日以内にこのタブレットを更新しない場合、電話を発信したり、メッセージを送信したり、モバイルデータを使用したりすることができなくなります。</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Frissíteni kell a telefon szolgáltatói beállításait. Ha %d napon belül nem frissíti a telefont, akkor nem indíthat hívást, nem küldhet üzenetet, és a mobilinternetet sem használhatja.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Frissíteni kell a telefon szolgáltatói beállításait. Ha %d napon belül nem frissíti a telefont, akkor nem indíthat hívást, nem küldhet üzenetet, és a mobilinternetet sem használhatja.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Frissíteni kell a táblagép szolgáltatói beállításait. Ha %d napon belül nem frissíti a táblagépet, akkor nem indíthat hívást, nem küldhet üzenetet, és a mobilinternetet sem használhatja.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Frissíteni kell a táblagép szolgáltatói beállításait. Ha %d napon belül nem frissíti a táblagépet, akkor nem indíthat hívást, nem küldhet üzenetet, és a mobilinternetet sem használhatja.</item>
+    </plurals>
+</resources>

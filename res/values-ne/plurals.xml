@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">तपाईको फोनको सेवा प्रदायकका सेटिङहरू अपडेट गर्नुपर्ने भएको छ। यदि %d दिनभित्रमा तपाईको फोन अपडेट गरिएन भने तपाई कलहरू गर्न, संदेशहरू पठाउन वा मोबाइल डाटा प्रयोग गर्न सक्नुहुने छैन।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">तपाईको फोनको सेवा प्रदायकका सेटिङहरू अपडेट गर्नुपर्ने भएको छ। यदि %d दिनभित्रमा तपाईको फोन अपडेट गरिएन भने तपाई कलहरू गर्न, संदेशहरू पठाउन वा मोबाइल डाटा प्रयोग गर्न सक्नुहुने छैन।</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">तपाईको ट्याब्लेटको सेवा प्रदायकका सेटिङहरू अपडेट गर्नुपर्ने भएको छ। यदि %d दिनभित्रमा तपाईको ट्याब्लेट अपडेट गरिएन भने तपाई कलहरू गर्न, संदेशहरू पठाउन वा मोबाइल डाटा प्रयोग गर्न सक्नुहुने छैन।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">तपाईको ट्याब्लेटको सेवा प्रदायकका सेटिङहरू अपडेट गर्नुपर्ने भएको छ। यदि %d दिनभित्रमा तपाईको ट्याब्लेट अपडेट गरिएन भने तपाई कलहरू गर्न, संदेशहरू पठाउन वा मोबाइल डाटा प्रयोग गर्न सक्नुहुने छैन।</item>
+    </plurals>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:theme="@style/Theme.AppCompat.DayNight" android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment android:theme="@style/Theme.AppCompat.DayNight" android:name="com.samsung.ssu.lock.SsuKeystringFragment" android:id="@id/my_keystring_fragment" android:layout_width="match_parent" android:layout_height="match_parent" />
+</LinearLayout>

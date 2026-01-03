@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nastavení poskytovatele služeb v telefonu je potřeba aktualizovat. Pokud telefon neaktualizujete do %d dne, nebudete moci telefonovat, posílat zprávy nebo používat mobilní data.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nastavení poskytovatele služeb v telefonu je potřeba aktualizovat. Pokud telefon neaktualizujete do %d dnů, nebudete moci telefonovat, posílat zprávy nebo používat mobilní data.</item>
+        <item quantity="many">Nastavení poskytovatele služeb v telefonu je potřeba aktualizovat. Pokud telefon neaktualizujete do %d dnů, nebudete moci telefonovat, posílat zprávy nebo používat mobilní data.</item>
+        <item quantity="other">Nastavení poskytovatele služeb v telefonu je potřeba aktualizovat. Pokud telefon neaktualizujete do %d dnů, nebudete moci telefonovat, posílat zprávy nebo používat mobilní data.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nastavení poskytovatele služeb v tabletu je potřeba aktualizovat. Pokud tablet neaktualizujete do %d dne, nebudete moci telefonovat, posílat zprávy nebo používat mobilní data.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nastavení poskytovatele služeb v tabletu je potřeba aktualizovat. Pokud tablet neaktualizujete do %d dnů, nebudete moci telefonovat, posílat zprávy nebo používat mobilní data.</item>
+        <item quantity="many">Nastavení poskytovatele služeb v tabletu je potřeba aktualizovat. Pokud tablet neaktualizujete do %d dnů, nebudete moci telefonovat, posílat zprávy nebo používat mobilní data.</item>
+        <item quantity="other">Nastavení poskytovatele služeb v tabletu je potřeba aktualizovat. Pokud tablet neaktualizujete do %d dnů, nebudete moci telefonovat, posílat zprávy nebo používat mobilní data.</item>
+    </plurals>
+</resources>

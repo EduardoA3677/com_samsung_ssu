@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">A nílò láti ṣe ìmúdójúìwọ̀n àwọn ààtò olùpèsè iṣẹ́ fóònù rẹ. Bí a kò bá ṣe ìmúdójúìwọ̀n fóònù rẹ ní ọjọ́ %d, o kò ní lè pè, fi àtẹ̀jíṣẹ́ ránṣẹ́, tàbí lo data alágbèéká.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">A nílò láti ṣe ìmúdójúìwọ̀n àwọn ààtò olùpèsè iṣẹ́ tábúlẹ́ẹ̀tì rẹ. Bí a kò bá ṣe ìmúdójúìwọ̀n fóònù rẹ ní ọjọ́ %d, o kò ní lè pè, fi àtẹ̀jíṣẹ́ ránṣẹ́, tàbí lo data alágbèéká.</item>
+    </plurals>
+</resources>

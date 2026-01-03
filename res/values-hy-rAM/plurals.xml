@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ձեր հեռախոսի ծառայության մատակարարի դրվածքները պետք է թարմացվեն: Եթե հեռախոսը չթարմացվի %d օրվա ընթացքում, չեք կարողանա կատարել կանչեր, ուղարկել հաղորդագրություններ կամ օգտագործել շարժական տվյալներ:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ձեր հեռախոսի ծառայության մատակարարի դրվածքները պետք է թարմացվեն: Եթե հեռախոսը չթարմացվի %d օրվա ընթացքում, չեք կարողանա կատարել կանչեր, ուղարկել հաղորդագրություններ կամ օգտագործել շարժական տվյալներ:</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ձեր պլանշետի ծառայության մատակարարի դրվածքները պետք է թարմացվեն: Եթե պլանշետը չթարմացվի %d օրվա ընթացքում, չեք կարողանա կատարել կանչեր, ուղարկել հաղորդագրություններ կամ օգտագործել շարժական տվյալներ:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ձեր պլանշետի ծառայության մատակարարի դրվածքները պետք է թարմացվեն: Եթե պլանշետը չթարմացվի %d օրվա ընթացքում, չեք կարողանա կատարել կանչեր, ուղարկել հաղորդագրություններ կամ օգտագործել շարժական տվյալներ:</item>
+    </plurals>
+</resources>

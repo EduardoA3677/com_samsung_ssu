@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Οι ρυθμίσεις του παροχέα υπηρεσιών στο τηλέφωνό σας χρειάζονται ενημέρωση. Αν το τηλέφωνο δεν ενημερωθεί σε %d ημέρα, δεν θα μπορείτε να κάνετε κλήσεις, να στέλνετε μηνύματα ή να χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Οι ρυθμίσεις του παροχέα υπηρεσιών στο τηλέφωνό σας χρειάζονται ενημέρωση. Αν το τηλέφωνο δεν ενημερωθεί σε %d ημέρες, δεν θα μπορείτε να κάνετε κλήσεις, να στέλνετε μηνύματα ή να χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Οι ρυθμίσεις του παροχέα υπηρεσιών στο tablet σας χρειάζονται ενημέρωση. Αν το tablet δεν ενημερωθεί σε %d ημέρα, δεν θα μπορείτε να κάνετε κλήσεις, να στέλνετε μηνύματα ή να χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Οι ρυθμίσεις του παροχέα υπηρεσιών στο tablet σας χρειάζονται ενημέρωση. Αν το tablet δεν ενημερωθεί σε %d ημέρες, δεν θα μπορείτε να κάνετε κλήσεις, να στέλνετε μηνύματα ή να χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">તમારા ફોનના સેવા પ્રદાતાના સેટિંગ્સ અપડેટ કરવા જરૂરી છે. જો તમારો ફોન %d દિવસમાં અપડેટ નહીં થાય, તો તમે કૉલ નહીં કરી શકો, સંદેશા નહીં મોકલી શકો અથવા મોબાઇલ ડેટાનો ઉપયોગ નહીં કરી શકો.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">તમારા ફોનના સેવા પ્રદાતાના સેટિંગ્સ અપડેટ કરવા જરૂરી છે. જો તમારો ફોન %d દિવસમાં અપડેટ નહીં થાય, તો તમે કૉલ નહીં કરી શકો, સંદેશા નહીં મોકલી શકો અથવા મોબાઇલ ડેટાનો ઉપયોગ નહીં કરી શકો.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">તમારા ટૅબ્લેટના સેવા પ્રદાતાના સેટિંગ્સ અપડેટ કરવા જરૂરી છે. જો તમારું ટૅબ્લેટ %d દિવસમાં અપડેટ નહીં થાય, તો તમે કૉલ નહીં કરી શકો, સંદેશા નહીં મોકલી શકો અથવા મોબાઇલ ડેટાનો ઉપયોગ નહીં કરી શકો.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">તમારા ટૅબ્લેટના સેવા પ્રદાતાના સેટિંગ્સ અપડેટ કરવા જરૂરી છે. જો તમારું ટૅબ્લેટ %d દિવસમાં અપડેટ નહીં થાય, તો તમે કૉલ નહીં કરી શકો, સંદેશા નહીં મોકલી શકો અથવા મોબાઇલ ડેટાનો ઉપયોગ નહીં કરી શકો.</item>
+    </plurals>
+</resources>

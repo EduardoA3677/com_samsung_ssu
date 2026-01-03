@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"আপোনাৰ ফোনৰ সেৱা প্ৰদানকাৰীৰ ছেটিংছ আপডেট কৰিব লাগিব। আপোনাৰ ফোন %d দিনত আপডেট কৰা নহ'লে, আপুনি কলসমূহ কৰিব, মেচেজসমূহ প্ৰেৰণ কৰিব বা ম'বাইল ডাটা ব্যৱহাৰ কৰিবলৈ সক্ষম নহ'ব।"</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"আপোনাৰ ফোনৰ সেৱা প্ৰদানকাৰীৰ ছেটিংছ আপডেট কৰিব লাগিব। আপোনাৰ ফোন %d দিনত আপডেট কৰা নহ'লে, আপুনি কলসমূহ কৰিব, মেচেজসমূহ প্ৰেৰণ কৰিব বা ম'বাইল ডাটা ব্যৱহাৰ কৰিবলৈ সক্ষম নহ'ব।"</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"আপোনাৰ টেবলেটৰ সেৱা প্ৰদানকাৰীৰ ছেটিংছ আপডেট কৰিব লাগিব। আপোনাৰ টেবলেট %d দিনত আপডেট কৰা নহ'লে, আপুনি কলসমূহ কৰিব, মেচেজসমূহ প্ৰেৰণ কৰিব বা ম'বাইল ডাটা ব্যৱহাৰ কৰিবলৈ সক্ষম নহ'ব।"</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"আপোনাৰ টেবলেটৰ সেৱা প্ৰদানকাৰীৰ ছেটিংছ আপডেট কৰিব লাগিব। আপোনাৰ টেবলেট %d দিনত আপডেট কৰা নহ'লে, আপুনি কলসমূহ কৰিব, মেচেজসমূহ প্ৰেৰণ কৰিব বা ম'বাইল ডাটা ব্যৱহাৰ কৰিবলৈ সক্ষম নহ'ব।"</item>
+    </plurals>
+</resources>

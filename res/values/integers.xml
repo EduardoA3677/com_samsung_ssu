@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="google_play_services_version">12451000</integer>
+    <integer name="sesl_config_activityDefaultDur">220</integer>
+    <integer name="sesl_config_activityShortDur">150</integer>
+    <integer name="sesl_dialog_disabled_anim_duration">100</integer>
+    <integer name="sesl_dialog_enter_anim_duration">100</integer>
+    <integer name="sesl_dialog_exit_anim_duration">100</integer>
+    <integer name="sesl_recoil_effect_press_duration">100</integer>
+    <integer name="sesl_recoil_effect_release_duration">350</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

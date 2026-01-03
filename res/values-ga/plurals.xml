@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Ní foláir socruithe sholáthraí seirbhíse d'fhóin a nuashonrú. Mura nuashonraítear d'fhón i gceann %d lae, ní bheidh tú in ann glaonna a chur, teachtaireachtaí a sheoladh, ná sonraí móibíleacha a úsáid."</item>
+        <item quantity="two">"Ní foláir socruithe sholáthraí seirbhíse d'fhóin a nuashonrú. Mura nuashonraítear d'fhón i gceann %d lá, ní bheidh tú in ann glaonna a chur, teachtaireachtaí a sheoladh, ná sonraí móibíleacha a úsáid."</item>
+        <item quantity="few">"Ní foláir socruithe sholáthraí seirbhíse d'fhóin a nuashonrú. Mura nuashonraítear d'fhón i gceann %d lá, ní bheidh tú in ann glaonna a chur, teachtaireachtaí a sheoladh, ná sonraí móibíleacha a úsáid."</item>
+        <item quantity="many">"Ní foláir socruithe sholáthraí seirbhíse d'fhóin a nuashonrú. Mura nuashonraítear d'fhón i gceann %d lá, ní bheidh tú in ann glaonna a chur, teachtaireachtaí a sheoladh, ná sonraí móibíleacha a úsáid."</item>
+        <item quantity="other">"Ní foláir socruithe sholáthraí seirbhíse d'fhóin a nuashonrú. Mura nuashonraítear d'fhón i gceann %d lá, ní bheidh tú in ann glaonna a chur, teachtaireachtaí a sheoladh, ná sonraí móibíleacha a úsáid."</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ní foláir socruithe sholáthraí seirbhíse do tháibléid a nuashonrú. Mura nuashonraítear do tháibléad i gceann %d lae, ní bheidh tú in ann glaonna a chur, teachtaireachtaí a sheoladh, ná sonraí móibíleacha a úsáid.</item>
+        <item quantity="two">Ní foláir socruithe sholáthraí seirbhíse do tháibléid a nuashonrú. Mura nuashonraítear do tháibléad i gceann %d lá, ní bheidh tú in ann glaonna a chur, teachtaireachtaí a sheoladh, ná sonraí móibíleacha a úsáid.</item>
+        <item quantity="few">Ní foláir socruithe sholáthraí seirbhíse do tháibléid a nuashonrú. Mura nuashonraítear do tháibléad i gceann %d lá, ní bheidh tú in ann glaonna a chur, teachtaireachtaí a sheoladh, ná sonraí móibíleacha a úsáid.</item>
+        <item quantity="many">Ní foláir socruithe sholáthraí seirbhíse do tháibléid a nuashonrú. Mura nuashonraítear do tháibléad i gceann %d lá, ní bheidh tú in ann glaonna a chur, teachtaireachtaí a sheoladh, ná sonraí móibíleacha a úsáid.</item>
+        <item quantity="other">Ní foláir socruithe sholáthraí seirbhíse do tháibléid a nuashonrú. Mura nuashonraítear do tháibléad i gceann %d lá, ní bheidh tú in ann glaonna a chur, teachtaireachtaí a sheoladh, ná sonraí móibíleacha a úsáid.</item>
+    </plurals>
+</resources>

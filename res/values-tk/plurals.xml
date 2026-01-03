@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telefonyňyzyň hyzmat üpjün ediji sazlamalarynda täzeleme etmek gerek. Telefonyňyzda %d günüň dowamynda täzeleme edilmese, jaň edip, hat iberip ýa-da mobil maglumat ulanyp bilmersiňiz.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Telefonyňyzyň hyzmat üpjün ediji sazlamalarynda täzeleme etmek gerek. Telefonyňyzda %d günüň dowamynda täzeleme edilmese, jaň edip, hat iberip ýa-da mobil maglumat ulanyp bilmersiňiz.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Planşetiňiziň hyzmat üpjün sazlamalarynda täzeleme etmek gerek. Planşetiňizde %d günüň dowamynda täzeleme edilmese, jaň edip, hat iberip ýa-da mobil maglumat ulanyp bilmersiňiz.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Planşetiňiziň hyzmat üpjün sazlamalarynda täzeleme etmek gerek. Planşetiňizde %d günüň dowamynda täzeleme edilmese, jaň edip, hat iberip ýa-da mobil maglumat ulanyp bilmersiňiz.</item>
+    </plurals>
+</resources>

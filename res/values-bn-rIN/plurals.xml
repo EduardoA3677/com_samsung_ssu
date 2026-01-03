@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপনার ফোনের পরিষেবা সরবরাহকারীর সেটিংস আপডেট করা দরকার। যদি আপনার ফোন %d দিনের মধ্যে আপডেট না হয় তাহলে আপনি কল করতে, মেসেজ পাঠাতে বা মোবাইল ডেটা ব্যবহার করতে সক্ষম হবেন না।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপনার ফোনের পরিষেবা সরবরাহকারীর সেটিংস আপডেট করা দরকার। যদি আপনার ফোন %d দিনের মধ্যে আপডেট না হয় তাহলে আপনি কল করতে, মেসেজ পাঠাতে বা মোবাইল ডেটা ব্যবহার করতে সক্ষম হবেন না।</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপনার ট্যাবলেটের পরিষেবা সরবরাহকারীর সেটিংস আপডেট করা দরকার। যদি আপনার ট্যাবলেট %d দিনের মধ্যে আপডেট না হয় তাহলে আপনি কল করতে, মেসেজ পাঠাতে বা মোবাইল ডেটা ব্যবহার করতে সক্ষম হবেন না।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপনার ট্যাবলেটের পরিষেবা সরবরাহকারীর সেটিংস আপডেট করা দরকার। যদি আপনার ট্যাবলেট %d দিনের মধ্যে আপডেট না হয় তাহলে আপনি কল করতে, মেসেজ পাঠাতে বা মোবাইল ডেটা ব্যবহার করতে সক্ষম হবেন না।</item>
+    </plurals>
+</resources>

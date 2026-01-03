@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telefondakı xidmət təchizatçısının parametrləri yenilənməlidir. Telefonunuzu %d gün ərzində yeniləməsəniz, zəng edə, mesaj göndərə və ya mobil datadan istifadə edə bilməyəcəksiniz.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Telefondakı xidmət təchizatçısının parametrləri yenilənməlidir. Telefonunuzu %d gün ərzində yeniləməsəniz, zəng edə, mesaj göndərə və ya mobil datadan istifadə edə bilməyəcəksiniz.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tabletdəki xidmət təchizatçısının parametrləri yenilənməlidir. Tabletinizi %d gün ərzində yeniləməsəniz, zəng edə, mesaj göndərə və ya mobil datadan istifadə edə bilməyəcəksiniz.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Tabletdəki xidmət təchizatçısının parametrləri yenilənməlidir. Tabletinizi %d gün ərzində yeniləməsəniz, zəng edə, mesaj göndərə və ya mobil datadan istifadə edə bilməyəcəksiniz.</item>
+    </plurals>
+</resources>

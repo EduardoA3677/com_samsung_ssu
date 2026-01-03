@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Aturan pembekal telefon anda perlu dikemas kini. Jika telefon anda tidak dikemas kini dalam %d hari, anda tidak akan dapat membuat panggilan, menghantar mesej, atau menggunakan data mudah alih.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Aturan pembekal tablet anda perlu dikemas kini. Jika tablet anda tidak dikemas kini dalam %d hari, anda tidak akan dapat membuat panggilan, menghantar mesej, atau menggunakan data mudah alih.</item>
+    </plurals>
+</resources>

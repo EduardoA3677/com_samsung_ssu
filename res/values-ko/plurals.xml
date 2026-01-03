@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">휴대전화 서비스 공급자 설정을 업데이트해야 합니다. %d일 안에 업데이트하지 않으면 전화, 메시지, 모바일 데이터를 사용할 수 없게 됩니다.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">태블릿 서비스 공급자 설정을 업데이트해야 합니다. %d일 안에 업데이트하지 않으면 전화, 메시지, 모바일 데이터를 사용할 수 없게 됩니다.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">As definições do fornecedor de serviços do seu telefone têm de ser atualizadas. Se o telefone não for atualizado dentro de %d dia, não poderá fazer chamadas, enviar mensagens nem utilizar dados móveis.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">As definições do fornecedor de serviços do seu telefone têm de ser atualizadas. Se o telefone não for atualizado dentro de %d dias, não poderá fazer chamadas, enviar mensagens nem utilizar dados móveis.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">As definições do fornecedor de serviços do seu tablet têm de ser atualizadas. Se o tablet não for atualizado dentro de %d dia, não poderá fazer chamadas, enviar mensagens nem utilizar dados móveis.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">As definições do fornecedor de serviços do seu tablet têm de ser atualizadas. Se o tablet não for atualizado dentro de %d dias, não poderá fazer chamadas, enviar mensagens nem utilizar dados móveis.</item>
+    </plurals>
+</resources>

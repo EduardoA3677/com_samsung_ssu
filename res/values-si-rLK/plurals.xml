@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ දුරකථනයේ සේවා සැපයුම්කරුගේ සැකසුම් යාවත්කාල කිරීමට අවශ්‍ය වේ. ඔබේ දුරකථනය %d දිනකින් යාවත්කාල නොකරන්නේ නම්, ඔබට ඇමතුම් ලබා ගැනීමට, පණිවිඩ යැවීමට, හෝ ජංගම දත්ත භාවිතා කිරීමට නොහැකි වනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඔබේ දුරකථනයේ සේවා සැපයුම්කරුගේ සැකසුම් යාවත්කාල කිරීමට අවශ්‍ය වේ. ඔබේ දුරකථනය දින %dකින් යාවත්කාල නොකරන්නේ නම්, ඔබට ඇමතුම් ලබා ගැනීමට, පණිවිඩ යැවීමට, හෝ ජංගම දත්ත භාවිතා කිරීමට නොහැකි වනු ඇත.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ ටැබ්ලටයේ සේවා සැපයුම්කරුගේ සැකසුම් යාවත්කාල කිරීමට අවශ්‍ය වේ. ඔබේ ටැබ්ලටය %d දිනකින් යාවත්කාල නොකරන්නේ නම්, ඔබට ඇමතුම් ලබා ගැනීමට, පණිවිඩ යැවීමට, හෝ ජංගම දත්ත භාවිතා කිරීමට නොහැකි වනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඔබේ ටැබ්ලටයේ සේවා සැපයුම්කරුගේ සැකසුම් යාවත්කාල කිරීමට අවශ්‍ය වේ. ඔබේ ටැබ්ලටය දින %dකින් යාවත්කාල නොකරන්නේ නම්, ඔබට ඇමතුම් ලබා ගැනීමට, පණිවිඩ යැවීමට, හෝ ජංගම දත්ත භාවිතා කිරීමට නොහැකි වනු ඇත.</item>
+    </plurals>
+</resources>

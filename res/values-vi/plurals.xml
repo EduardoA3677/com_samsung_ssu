@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Bạn cần cập nhật cài đặt nhà cung cấp dịch vụ của điện thoại. Nếu điện thoại của bạn không được cập nhật trong vòng %d ngày, bạn sẽ không thể thực hiện cuộc gọi, gửi tin nhắn hoặc sử dụng dữ liệu di động.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Bạn cần cập nhật cài đặt nhà cung cấp dịch vụ của máy tính bảng. Nếu máy tính bảng của bạn không được cập nhật trong vòng %d ngày, bạn sẽ không thể thực hiện cuộc gọi, gửi tin nhắn hoặc sử dụng dữ liệu di động.</item>
+    </plurals>
+</resources>

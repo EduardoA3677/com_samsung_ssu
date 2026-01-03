@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Saitunan mai tanadar da sabis ɗinka na buƙatan a sabunta. Idan wayarka ba a sabunta a %d rana, ba za ka iya yin kira ba, aika saƙonni, ko amfani da bayanin waya.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Saitunan mai tanadar da sabis ɗinka na buƙatan a sabunta. Idan wayarka ba a sabunta a %d kwanaki, ba za ka iya yin kira ba, aika saƙonni, ko amfani da bayanin waya.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Saitunan mai tanadar da sabis na tabulet ɗinka na buƙatar sabuntawa. Idan tabulet ɗinka ba a sabunta a %d rana, ba za ka iya yin kira ba, aika saƙonni, ko amfani da bayanin waya.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Saitunan mai tanadar da sabis na tabulet ɗinka na buƙatar sabuntawa. Idan tabulet ɗinka ba a sabunta a %d kwanaki, ba za ka iya yin kira ba, aika saƙonni, ko amfani da bayanin waya.</item>
+    </plurals>
+</resources>

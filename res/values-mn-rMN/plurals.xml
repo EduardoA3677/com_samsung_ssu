@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны утасны үйлчилгээ үзүүлэгчийн тохиргоог шинэчлэх хэрэгтэй. Хэрэв таны утас %d өдрийн дараа шинэчлэгдэхгүй бол та дуудлага хийх, зурвас илгээх эсвэл мобайл дата ашиглах боломжгүй болно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны утасны үйлчилгээ үзүүлэгчийн тохиргоог шинэчлэх хэрэгтэй. Хэрэв таны утас %d өдрийн дараа шинэчлэгдэхгүй бол та дуудлага хийх, зурвас илгээх эсвэл мобайл дата ашиглах боломжгүй болно.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны таблетын үйлчилгээ үзүүлэгчийн тохиргоог шинэчлэх хэрэгтэй. Хэрэв таны таблет %d өдрийн дараа шинэчлэгдэхгүй бол та дуудлага хийх, зурвас илгээх эсвэл мобайл дата ашиглах боломжгүй болно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны таблетын үйлчилгээ үзүүлэгчийн тохиргоог шинэчлэх хэрэгтэй. Хэрэв таны таблет %d өдрийн дараа шинэчлэгдэхгүй бол та дуудлага хийх, зурвас илгээх эсвэл мобайл дата ашиглах боломжгүй болно.</item>
+    </plurals>
+</resources>

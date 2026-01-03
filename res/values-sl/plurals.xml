@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nastavitve ponudnika storitev za telefon je treba posodobiti. Če telefona ne posodobite v %d dnevu, ne boste mogli klicati, pošiljati sporočil ali uporabljati prenosa podatkov prek mobilnega omrežja.</item>
+        <item quantity="two">Nastavitve ponudnika storitev za telefon je treba posodobiti. Če telefona ne posodobite v %d dneh, ne boste mogli klicati, pošiljati sporočil ali uporabljati prenosa podatkov prek mobilnega omrežja.</item>
+        <item quantity="few">Nastavitve ponudnika storitev za telefon je treba posodobiti. Če telefona ne posodobite v %d dneh, ne boste mogli klicati, pošiljati sporočil ali uporabljati prenosa podatkov prek mobilnega omrežja.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Nastavitve ponudnika storitev za telefon je treba posodobiti. Če telefona ne posodobite v %d dneh, ne boste mogli klicati, pošiljati sporočil ali uporabljati prenosa podatkov prek mobilnega omrežja.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nastavitve ponudnika storitev za tablični računalnik je treba posodobiti. Če tabličnega računalnika ne posodobite v %d dnevu, ne boste mogli klicati, pošiljati sporočil ali uporabljati prenosa podatkov prek mobilnega omrežja.</item>
+        <item quantity="two">Nastavitve ponudnika storitev za tablični računalnik je treba posodobiti. Če tabličnega računalnika ne posodobite v %d dneh, ne boste mogli klicati, pošiljati sporočil ali uporabljati prenosa podatkov prek mobilnega omrežja.</item>
+        <item quantity="few">Nastavitve ponudnika storitev za tablični računalnik je treba posodobiti. Če tabličnega računalnika ne posodobite v %d dneh, ne boste mogli klicati, pošiljati sporočil ali uporabljati prenosa podatkov prek mobilnega omrežja.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Nastavitve ponudnika storitev za tablični računalnik je treba posodobiti. Če tabličnega računalnika ne posodobite v %d dneh, ne boste mogli klicati, pošiljati sporočil ali uporabljati prenosa podatkov prek mobilnega omrežja.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:theme="@style/AppPreferenceTheme"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.Preference android:title="@string/ssu_status_title" android:key="ssu_status" />
+    <androidx.preference.Preference android:title="@string/ssu_perm_unlock_request_title" android:key="ssu_perm_unlock_request" android:summary="@string/ssu_perm_unlock_request_summary" />
+    <androidx.preference.Preference android:title="@string/ssu_temp_unlock_request_title" android:key="ssu_temp_unlock_request" android:summary="@string/ssu_temp_unlock_request_summary" />
+</androidx.preference.PreferenceScreen>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kailangan ma-update ang mga setting ng service provider ng telepono mo. Kung hindi ma-update ang telepono mo sa loob ng %d araw, hindi ka makatatawag, makapagpapadala ng mga mensahe o makagagamit ng mobile data.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kailangan ma-update ang mga setting ng service provider ng telepono mo. Kung hindi ma-update ang telepono mo sa loob ng %d araw, hindi ka makatatawag, makapagpapadala ng mga mensahe o makagagamit ng mobile data.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kailangan ma-update ang mga setting ng service provider ng tablet mo. Kung hindi ma-update ang tablet mo sa loob ng %d araw, hindi ka makatatawag, makapagpapadala ng mga mensahe o makagagamit ng mobile data.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kailangan ma-update ang mga setting ng service provider ng tablet mo. Kung hindi ma-update ang tablet mo sa loob ng %d araw, hindi ka makatatawag, makapagpapadala ng mga mensahe o makagagamit ng mobile data.</item>
+    </plurals>
+</resources>

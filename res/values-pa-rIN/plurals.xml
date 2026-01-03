@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੀਆਂ ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਸੈੱਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਜੇ ਤੁਹਾਡਾ ਫ਼ੋਨ %d ਦਿਨ ਵਿੱਚ ਅੱਪਡੇਟ ਨਹੀਂ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਕਾਲਾਂ ਕਰਨ, ਸੰਦੇਸ਼ ਭੇਜਣ ਜਾਂ ਮੋਬਾਈਲ ਡੈਟਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋਵੋਗੇ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੀਆਂ ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਸੈੱਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਜੇ ਤੁਹਾਡਾ ਫ਼ੋਨ %d ਦਿਨਾਂ ਵਿੱਚ ਅੱਪਡੇਟ ਨਹੀਂ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਕਾਲਾਂ ਕਰਨ, ਸੰਦੇਸ਼ ਭੇਜਣ ਜਾਂ ਮੋਬਾਈਲ ਡੈਟਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋਵੋਗੇ।</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਤੁਹਾਡੇ ਟੈਬਲੇਟ ਦੀਆਂ ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਸੈੱਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਜੇ ਤੁਹਾਡਾ ਟੈਬਲੇਟ %d ਦਿਨ ਵਿੱਚ ਅੱਪਡੇਟ ਨਹੀਂ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਕਾਲਾਂ ਕਰਨ, ਸੰਦੇਸ਼ ਭੇਜਣ ਜਾਂ ਮੋਬਾਈਲ ਡੈਟਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋਵੋਗੇ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਤੁਹਾਡੇ ਟੈਬਲੇਟ ਦੀਆਂ ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਸੈੱਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਜੇ ਤੁਹਾਡਾ ਟੈਬਲੇਟ %d ਦਿਨਾਂ ਵਿੱਚ ਅੱਪਡੇਟ ਨਹੀਂ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਕਾਲਾਂ ਕਰਨ, ਸੰਦੇਸ਼ ਭੇਜਣ ਜਾਂ ਮੋਬਾਈਲ ਡੈਟਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋਵੋਗੇ।</item>
+    </plurals>
+</resources>

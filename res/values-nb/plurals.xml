@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telefonens tjenesteleverandørinnstillinger må oppdateres. Hvis telefonen ikke oppdateres innen %d dag, vil du ikke kunne ringe, sende meldinger eller bruke mobildata.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Telefonens tjenesteleverandørinnstillinger må oppdateres. Hvis telefonen ikke oppdateres innen %d dager, vil du ikke kunne ringe, sende meldinger eller bruke mobildata.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nettbrettets tjenesteleverandørinnstillinger må oppdateres. Hvis nettbrettet ikke oppdateres innen %d dag, vil du ikke kunne ringe, sende meldinger eller bruke mobildata.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Nettbrettets tjenesteleverandørinnstillinger må oppdateres. Hvis nettbrettet ikke oppdateres innen %d dager, vil du ikke kunne ringe, sende meldinger eller bruke mobildata.</item>
+    </plurals>
+</resources>

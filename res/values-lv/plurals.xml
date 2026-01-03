@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">Ir jāatjaunina tālruņa pakalpojumu sniedzēja iestatījumi. Ja tālrunis netiks atjaunināts %d dienu laikā, jūs nevarēsit veikt zvanus, sūtīt ziņas vai izmantot mobilos datus.</item>
+        <item quantity="one">Ir jāatjaunina tālruņa pakalpojumu sniedzēja iestatījumi. Ja tālrunis netiks atjaunināts %d dienas laikā, jūs nevarēsit veikt zvanus, sūtīt ziņas vai izmantot mobilos datus.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ir jāatjaunina tālruņa pakalpojumu sniedzēja iestatījumi. Ja tālrunis netiks atjaunināts %d dienu laikā, jūs nevarēsit veikt zvanus, sūtīt ziņas vai izmantot mobilos datus.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">Ir jāatjaunina planšetdatora pakalpojumu sniedzēja iestatījumi. Ja planšetdators netiks atjaunināts %d dienu laikā, jūs nevarēsit veikt zvanus, sūtīt ziņas vai izmantot mobilos datus.</item>
+        <item quantity="one">Ir jāatjaunina planšetdatora pakalpojumu sniedzēja iestatījumi. Ja planšetdators netiks atjaunināts %d dienas laikā, jūs nevarēsit veikt zvanus, sūtīt ziņas vai izmantot mobilos datus.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ir jāatjaunina planšetdatora pakalpojumu sniedzēja iestatījumi. Ja planšetdators netiks atjaunināts %d dienu laikā, jūs nevarēsit veikt zvanus, sūtīt ziņas vai izmantot mobilos datus.</item>
+    </plurals>
+</resources>

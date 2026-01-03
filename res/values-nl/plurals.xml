@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"De instellingen van de serviceprovider voor uw telefoon moeten worden bijgewerkt. Als uw telefoon niet binnen %d dag wordt bijgewerkt, kunt u niet meer bellen, sms'en of mobiele gegevens gebruiken."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"De instellingen van de serviceprovider voor uw telefoon moeten worden bijgewerkt. Als uw telefoon niet binnen %d dagen wordt bijgewerkt, kunt u niet meer bellen, sms'en of mobiele gegevens gebruiken."</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"De instellingen van de serviceprovider voor uw tablet moeten worden bijgewerkt. Als uw tablet niet binnen %d dag wordt bijgewerkt, kunt u niet meer bellen, sms'en of mobiele gegevens gebruiken."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"De instellingen van de serviceprovider voor uw tablet moeten worden bijgewerkt. Als uw tablet niet binnen %d dagen wordt bijgewerkt, kunt u niet meer bellen, sms'en of mobiele gegevens gebruiken."</item>
+    </plurals>
+</resources>

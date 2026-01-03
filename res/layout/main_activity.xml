@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:tag="layout/main_activity_0" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:layout_width="0.0dp" android:layout_height="0.0dp" android:fillViewport="true" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <fragment android:theme="@style/Theme.AppCompat.DayNight" android:name="com.samsung.ssu.unlock.SsuFragment" android:id="@id/my_fragment" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+            <TextView android:id="@id/main_description" android:paddingLeft="24.0sp" android:paddingTop="20.0sp" android:paddingRight="24.0sp" android:layout_width="match_parent" android:layout_height="0.0dp" android:text="@string/ssu_unlock_success_description" android:layout_weight="1.0" style="@style/description_text" />
+        </LinearLayout>
+    </ScrollView>
+    <ProgressBar android:id="@id/progressBar" android:background="@color/transparent" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="?android:progressBarStyleLarge" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Actualiza los ajustes del operador de tu teléfono. Si no se actualiza el teléfono en %d día, no podrás realizar llamadas, enviar mensajes ni usar datos móviles.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Actualiza los ajustes del operador de tu teléfono. Si no se actualiza el teléfono antes de %d días, no podrás realizar llamadas, enviar mensajes ni usar datos móviles.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Actualiza los ajustes del operador de tu tableta. Si no se actualiza la tableta antes de %d día, no podrás realizar llamadas, enviar mensajes ni usar datos móviles.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Actualiza los ajustes del operador de tu tableta. Si no se actualiza la tableta antes de %d días, no podrás realizar llamadas, enviar mensajes ni usar datos móviles.</item>
+    </plurals>
+</resources>

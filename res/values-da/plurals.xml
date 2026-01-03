@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Din telefons tjenesteudbyderindstillinger skal opdateres. Hvis din telefon ikke er opdateret om %d dag, kan du ikke foretage opkald, sende beskeder eller bruge mobile data.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Din telefons tjenesteudbyderindstillinger skal opdateres. Hvis din telefon ikke er opdateret om %d dage, kan du ikke foretage opkald, sende beskeder eller bruge mobile data.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Din tablets tjenesteudbyderindstillinger skal opdateres. Hvis din tablet ikke er opdateret om %d dag, kan du ikke foretage opkald, sende beskeder eller bruge mobile data.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Din tablets tjenesteudbyderindstillinger skal opdateres. Hvis din tablet ikke er opdateret om %d dage, kan du ikke foretage opkald, sende beskeder eller bruge mobile data.</item>
+    </plurals>
+</resources>

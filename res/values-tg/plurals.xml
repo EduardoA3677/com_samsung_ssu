@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Танзимоти таҳвилгари хизматрасониҳои телефони шумо бояд нав карда шавад. Агар телефони шумо давоми %d рӯз навсозӣ карда нашавад, шумо занг зада, паём фиристода ва иттилооти мобилиро истифода бурда наметавонед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Танзимоти таҳвилгари хизматрасониҳои телефони шумо бояд нав карда шавад. Агар телефони шумо давоми %d рӯз навсозӣ карда нашавад, шумо занг зада, паём фиристода ва иттилооти мобилиро истифода бурда наметавонед.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Танзимоти таҳвилгари хизматрасониҳои планшети шумо бояд нав карда шавад. Агар планшети шумо давоми %d рӯз навсозӣ карда нашавад, шумо занг зада, паём фиристода ва иттилооти мобилиро истифода бурда наметавонед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Танзимоти таҳвилгари хизматрасониҳои планшети шумо бояд нав карда шавад. Агар планшети шумо давоми %d рӯз навсозӣ карда нашавад, шумо занг зада, паём фиристода ва иттилооти мобилиро истифода бурда наметавонед.</item>
+    </plurals>
+</resources>

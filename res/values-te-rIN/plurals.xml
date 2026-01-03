@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">మీ ఫోన్ సేవా ప్రదాత సెట్టింగ్‌లను అప్‌డేట్ చేయాలి. మీ ఫోన్ %d రోజులో అప్‌డేట్ చేయబడకుంటే, మీరు కాల్‌లు చేయలేరు, సందేశాలు పంపలేరు లేదా మొబైల్ డేటాని ఉపయోగించలేరు.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">మీ ఫోన్ సేవా ప్రదాత సెట్టింగ్‌లను అప్‌డేట్ చేయాలి. మీ ఫోన్ %d రోజులలో అప్‌డేట్ చేయబడకుంటే, మీరు కాల్‌లు చేయలేరు, సందేశాలు పంపలేరు లేదా మొబైల్ డేటాని ఉపయోగించలేరు.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">మీ టాబ్లెట్ సేవా ప్రదాత సెట్టింగ్‌లను అప్‌డేట్ చేయాలి. మీ టాబ్లెట్ %d రోజులో అప్‌డేట్ చేయబడకుంటే, మీరు కాల్‌లు చేయలేరు, సందేశాలు పంపలేరు లేదా మొబైల్ డేటాని ఉపయోగించలేరు.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">మీ టాబ్లెట్ సేవా ప్రదాత సెట్టింగ్‌లను అప్‌డేట్ చేయాలి. మీ టాబ్లెట్ %d రోజులలో అప్‌డేట్ చేయబడకుంటే, మీరు కాల్‌లు చేయలేరు, సందేశాలు పంపలేరు లేదా మొబైల్ డేటాని ఉపయోగించలేరు.</item>
+    </plurals>
+</resources>

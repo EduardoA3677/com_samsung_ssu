@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ការកំណត់​អ្នកផ្ដល់​សេវា​នៃ​ទូរសព្ទ​របស់​អ្នក​ត្រូវការ​អាប់ដេត។ បើ​ទូរសព្ទ​របស់​អ្នក​មិន​ត្រូវ​បាន​អាប់ដេត​ក្នុង​ពេល %d ថ្ងៃ​ទេ អ្នក​នឹង​មិន​អាច​ធ្វើ​ការហៅ, ផ្ញើ​សារ ឬ​ក៏​ប្រើ​ទិន្នន័យ​ចល័ត​ឡើយ។</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ការកំណត់​អ្នកផ្ដល់​សេវា​នៃ​ថេប្លិត​របស់​អ្នក​ត្រូវការ​អាប់ដេត។ បើ​ថេប្លិត​របស់​អ្នក​មិន​ត្រូវ​បាន​អាប់ដេត​ក្នុង​ពេល %d ថ្ងៃ​ទេ អ្នក​នឹង​មិន​អាច​ធ្វើ​ការហៅ, ផ្ញើ​សារ ឬ​ក៏​ប្រើ​ទិន្នន័យ​ចល័ត​ឡើយ។</item>
+    </plurals>
+</resources>

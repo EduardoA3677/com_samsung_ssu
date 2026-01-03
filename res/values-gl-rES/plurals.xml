@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cómpre actualizar os axustes da operadora no teléfono. Se non o actualizas en %d día, non poderás facer chamadas, enviar mensaxes nin empregar datos móbiles.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Cómpre actualizar os axustes da operadora no teléfono. Se non o actualizas en %d días, non poderás facer chamadas, enviar mensaxes nin empregar datos móbiles.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cómpre actualizar os axustes da operadora na tableta. Se non a actualizas en %d día, non poderás facer chamadas, enviar mensaxes nin empregar datos móbiles.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Cómpre actualizar os axustes da operadora na tableta. Se non a actualizas en %d días, non poderás facer chamadas, enviar mensaxes nin empregar datos móbiles.</item>
+    </plurals>
+</resources>

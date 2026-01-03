@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="36" android:compileSdkVersionCodename="16" package="com.samsung.ssu" platformBuildVersionCode="36" platformBuildVersionName="16">
+    <queries>
+        <package android:name="com.mizmowireless.acctmgt"/>
+        <package android:name="com.att.deviceunlock"/>
+    </queries>
+    <permission android:name="com.samsung.ssu.permission.NETWORK_UNLOCK" android:protectionLevel="normal"/>
+    <permission android:name="com.samsung.ssu.provider" android:protectionLevel="normal"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"/>
+    <uses-permission android:name="com.samsung.ssu.permission.NETWORK_UNLOCK"/>
+    <uses-permission android:name="android.permission.REORDER_TASKS"/>
+    <permission android:name="com.samsung.ssu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.samsung.ssu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:extractNativeLibs="false" android:icon="@mipmap/app_icon" android:label="@string/app_name" android:name="com.samsung.ssu.SsuApplication" android:supportsRtl="true">
+        <meta-data android:name="SamsungBasicInteraction" android:value="SEP10"/>
+        <meta-data android:name="com.samsung.android.multiuser.disallowed_managed_profile" android:value="true"/>
+        <service android:enabled="true" android:exported="true" android:name="com.samsung.ssu.service.DeviceUnlockService" android:permission="com.samsung.ssu.permission.NETWORK_UNLOCK"/>
+        <service android:enabled="true" android:exported="true" android:name="com.samsung.ssu.scheduler.service.DeviceRegistReqService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <activity android:exported="true" android:name="com.samsung.ssu.IconMainActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:label="@string/app_name" android:name="com.samsung.ssu.unlock.MainActivity" android:theme="@style/AppPreferenceTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.android.settings.action.IA_SETTINGS"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="com.android.settings.category" android:value="com.samsung.android.settings.category.ia.more_connections"/>
+            <meta-data android:name="com.android.settings.keyhint" android:value="samsung_sim_unlock"/>
+            <meta-data android:name="com.android.settings.title" android:value="@string/app_name"/>
+            <meta-data android:name="com.android.settings.summary" android:resource="@string/ssu_summary"/>
+            <meta-data android:name="com.android.settings.PREFERENCE_TYPE" android:value="Preference"/>
+            <meta-data android:name="com.android.settings.order" android:value="9000"/>
+        </activity>
+        <activity android:exported="true" android:name="com.samsung.ssu.unlock.SsuEmptyActivity">
+            <intent-filter>
+                <action android:name="com.android.settings.action.IA_SETTINGS"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="com.android.settings.category" android:value="com.samsung.android.settings.category.ia.more_connections"/>
+            <meta-data android:name="com.android.settings.keyhint" android:value="samsung_sim_unlock_no_ux"/>
+            <meta-data android:name="com.android.settings.PREFERENCE_TYPE" android:value="Preference"/>
+            <meta-data android:name="com.android.settings.order" android:value="9002"/>
+        </activity>
+        <activity-alias android:exported="true" android:label="@string/ssu_no_ux_title" android:name="com.samsung.ssu.AliasActivity" android:targetActivity="com.samsung.ssu.unlock.SsuEmptyActivity">
+            <intent-filter>
+                <action android:name="com.android.settings.action.IA_SETTINGS"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="com.android.settings.category" android:value="com.samsung.android.settings.category.ia.more_connections"/>
+            <meta-data android:name="com.android.settings.keyhint" android:value="alias_samsung_sim_unlock_no_ux_title"/>
+            <meta-data android:name="com.android.settings.PREFERENCE_TYPE" android:value="PreferenceCategory"/>
+            <meta-data android:name="com.android.settings.order" android:value="9001"/>
+        </activity-alias>
+        <activity android:exported="false" android:name="com.samsung.ssu.unlock.SsuHelpActivity" android:theme="@style/SsuActivity.HelpActivity"/>
+        <activity android:exported="true" android:name="com.samsung.ssu.lock.SsuKeystringActivity" android:theme="@style/AppPreferenceTheme"/>
+        <activity android:exported="true" android:name="com.samsung.ssu.lock.SsuNetworkLock" android:theme="@style/SsuTransparent">
+            <intent-filter>
+                <action android:name="com.samsung.ssu.action.NETWORK_LOCKED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <receiver android:enabled="true" android:exported="true" android:name="com.samsung.ssu.SsuEventReceiver">
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.SIM_STATE_CHANGED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <action android:name="com.samsung.android.action.SECRET_CODE"/>
+                <data android:host="2929" android:scheme="android_secret_code"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.samsung.ssu.fcm.SsuFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <meta-data android:name="com.google.firebase.messaging.default_notification_channel_id" android:value="@string/default_notification_channel_id"/>
+        <provider android:authorities="com.samsung.ssu.SsuDynamicMenuProvider" android:enabled="true" android:exported="true" android:name="com.samsung.ssu.SsuDynamicMenuProvider" android:permission="com.samsung.android.permission.SEC_DYNAMIC_MENU_PROVIDER">
+            <intent-filter>
+                <action android:name="com.samsung.android.settings.DYNAMIC_MENU_PROVIDER"/>
+            </intent-filter>
+        </provider>
+        <provider android:authorities="com.samsung.ssu.provider" android:enabled="true" android:exported="true" android:name="com.samsung.ssu.provider.SsuLockStateProvider" android:permission="com.samsung.ssu.provider"/>
+        <activity android:exported="true" android:multiprocess="true" android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity" android:taskAffinity="" android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.firebase.messaging.FirebaseMessagingService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.firebase.components.ComponentDiscoveryService">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <provider android:authorities="com.samsung.ssu.androidx-startup" android:exported="false" android:name="androidx.startup.InitializationProvider">
+            <meta-data android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.profileinstaller.ProfileInstallerInitializer" android:value="androidx.startup"/>
+        </provider>
+        <uses-library android:name="androidx.window.extensions" android:required="false"/>
+        <uses-library android:name="androidx.window.sidecar" android:required="false"/>
+        <provider android:authorities="com.samsung.ssu.firebaseinitprovider" android:directBootAware="true" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <service android:exported="false" android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery">
+            <meta-data android:name="backend:com.google.android.datatransport.cct.CctBackendFactory" android:value="cct"/>
+        </service>
+        <service android:exported="false" android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:exported="false" android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"/>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="true" android:name="androidx.profileinstaller.ProfileInstallReceiver" android:permission="android.permission.DUMP">
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION"/>
+            </intent-filter>
+        </receiver>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="SPDE.build.signature" android:value="6531efb10b58567a04c9b2e77e5b528c597b7c59/167263036/release/SsuService-100000-1.5.27"/>
+        <meta-data android:name="SPDE.env.version" android:value="8.7.3/G36.1.14/1.2.6"/>
+    </application>
+</manifest>

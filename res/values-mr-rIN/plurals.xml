@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">आपल्या फोनच्या सेवा प्रदाता सेटिंग्स अद्ययावत करणे आवश्यक आहे. आपला फोन %d दिवसात अद्ययावत न झाल्यास, आपण कॉल करण्यात, संदेश पाठवण्यात किंवा मोबाइल डेटा वापरण्यास सक्षम राहणार नाही.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">आपल्या फोनच्या सेवा प्रदाता सेटिंग्स अद्ययावत करणे आवश्यक आहे. आपला फोन %d दिवसांत अद्ययावत न झाल्यास, आपण कॉल करण्यात, संदेश पाठवण्यात किंवा मोबाइल डेटा वापरण्यास सक्षम राहणार नाही.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">आपल्या टॅबलेटच्या सेवा प्रदाता सेटिंग्स अद्ययावत करणे आवश्यक आहे. आपला टॅबलेट %d दिवसात अद्ययावत न झाल्यास, आपण कॉल करण्यात, संदेश पाठवण्यात किंवा मोबाइल डेटा वापरण्यास सक्षम राहणार नाही.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">आपल्या टॅबलेटच्या सेवा प्रदाता सेटिंग्स अद्ययावत करणे आवश्यक आहे. आपला टॅबलेट %d दिवसांत अद्ययावत न झाल्यास, आपण कॉल करण्यात, संदेश पाठवण्यात किंवा मोबाइल डेटा वापरण्यास सक्षम राहणार नाही.</item>
+    </plurals>
+</resources>

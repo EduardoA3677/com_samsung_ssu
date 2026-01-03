@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຈຳເປັນຕ້ອງໄດ້ອັບເດດການຕັ້ງຄ່າຜູ້ໃຫ້ການບໍລິການໂທລະສັບຂອງທ່ານຈຳ. ຖ້າໂທລະສັບຂອງທ່ານບໍ່ຖືກອັບເດດໃນ %d ວັນ, ທ່ານຈະບໍ່ສາມາດໂທອອກ, ສົ່ງຂໍ້ຄວາມ, ຫຼື ໃຊ້ຂໍ້ມູນມືຖືໄດ້.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຈຳເປັນຕ້ອງໄດ້ອັບເດດການຕັ້ງຄ່າຜູ້ໃຫ້ການບໍລິການແທັບເລັດຂອງທ່ານຈຳ. ຖ້າແທັບເລັດຂອງທ່ານບໍ່ຖືກອັບເດດໃນ %d ວັນ, ທ່ານຈະບໍ່ສາມາດໂທອອກ, ສົ່ງຂໍ້ຄວາມ, ຫຼື ໃຊ້ຂໍ້ມູນມືຖືໄດ້.</item>
+    </plurals>
+</resources>

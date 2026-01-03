@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telefonunuzun servis sağlayıcı ayarlarının güncellenmesi gerekiyor. Telefonunuz %d gün içinde güncellenmezse arama yapamaz, mesaj gönderemez veya mobil veriyi kullanamazsınız.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Telefonunuzun servis sağlayıcı ayarlarının güncellenmesi gerekiyor. Telefonunuz %d gün içinde güncellenmezse arama yapamaz, mesaj gönderemez veya mobil veriyi kullanamazsınız.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tabletinizin servis sağlayıcı ayarlarının güncellenmesi gerekiyor. Tabletiniz %d gün içinde güncellenmezse arama yapamaz, mesaj gönderemez veya mobil veriyi kullanamazsınız.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Tabletinizin servis sağlayıcı ayarlarının güncellenmesi gerekiyor. Tabletiniz %d gün içinde güncellenmezse arama yapamaz, mesaj gönderemez veya mobil veriyi kullanamazsınız.</item>
+    </plurals>
+</resources>

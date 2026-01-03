@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sesl_action_bar_default_height">56.0dp</dimen>
+    <dimen name="sesl_action_bar_top_padding">0.0dp</dimen>
+    <dimen name="sesl_action_item_show_button_background_inset_vertical">5.0dp</dimen>
+    <dimen name="sesl_dialog_body_text_padding_bottom">8.0dp</dimen>
+    <dimen name="sesl_dialog_button_bar_margin_bottom">8.0dp</dimen>
+    <dimen name="sesl_dialog_button_bar_padding_bottom">8.0dp</dimen>
+    <dimen name="sesl_dialog_title_padding_bottom">6.0dp</dimen>
+    <dimen name="sesl_dialog_title_padding_top">12.0dp</dimen>
+    <dimen name="sesl_select_dialog_padding_bottom">12.0dp</dimen>
+    <dimen name="sesl_toolbar_title_text_size">19.0sp</dimen>
+    <dimen name="sesl_toolbar_title_text_size_with_subtitle">19.0dp</dimen>
+</resources>

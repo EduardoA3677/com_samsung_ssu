@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သင့္ဖုန္း၏ ဝန္ေဆာင္မႈ ေပးသူ သတ္မွတ္ခ်က္မ်ားကို အပ္ဒိတ္လုပ္ရန္ လိုသည္။ သင့္ဖုန္းကို ရက္ %d အတြင္း အပ္ဒိတ္မလုပ္လွ်င္ သင္သည္ ဖုန္းေခၚျခင္း၊ မက္ေဆ့ခ်္ပို႔ျခင္း (သို႔) မိုဘိုင္း ေဒတာ သံုးျခင္းတို႔ လုပ္ႏိုင္မည္ မဟုတ္ပါ။</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သင့္တက္ဘလက္၏ ဝန္ေဆာင္မႈ ေပးသူ သတ္မွတ္ခ်က္မ်ားကို အပ္ဒိတ္လုပ္ရန္ လိုသည္။ သင့္တက္ဘလက္ကို ရက္ %d အတြင္း အပ္ဒိတ္မလုပ္လွ်င္ သင္သည္ ဖုန္းေခၚျခင္း၊ မက္ေဆ့ခ်္ပို႔ျခင္း (သို႔) မိုဘိုင္း ေဒတာ သံုးျခင္းတို႔ လုပ္ႏိုင္မည္ မဟုတ္ပါ။</item>
+    </plurals>
+</resources>

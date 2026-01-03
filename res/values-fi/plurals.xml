@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Puhelimesi palveluntarjoajan asetukset on päivitettävä. Jos puhelintasi ei päivitetä %d päivän kuluessa, et pysty soittamaan puheluita, lähettämään viestejä tai käyttämään mobiilidataa.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Puhelimesi palveluntarjoajan asetukset on päivitettävä. Jos puhelintasi ei päivitetä %d päivän kuluessa, et pysty soittamaan puheluita, lähettämään viestejä tai käyttämään mobiilidataa.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tablet-laitteesi palveluntarjoajan asetukset on päivitettävä. Jos tablet-laitettasi ei päivitetä %d päivän kuluessa, et pysty soittamaan puheluita, lähettämään viestejä tai käyttämään mobiilidataa.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Tablet-laitteesi palveluntarjoajan asetukset on päivitettävä. Jos tablet-laitettasi ei päivitetä %d päivän kuluessa, et pysty soittamaan puheluita, lähettämään viestejä tai käyttämään mobiilidataa.</item>
+    </plurals>
+</resources>

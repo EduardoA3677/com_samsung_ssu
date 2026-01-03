@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carrierInfo>
+    <models>
+        <model name="SM-A102U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-A205U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-G970U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-G973U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-G975U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-N970U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-N975U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-T867U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-T307U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-F700U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-G981U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-G986U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-G988U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-A115U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-A215U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-A716U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-A516U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-T978U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-T878U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-F707U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-G781U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-A125U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+        <model name="SM-A025U" carrier="TMB">
+            <suppport>TMB</suppport>
+            <suppport>SPR</suppport>
+        </model>
+    </models>
+    <carriers>
+        <carrier name="TMB">
+            <mcc_mnc>310160</mcc_mnc>
+            <mcc_mnc>310200</mcc_mnc>
+            <mcc_mnc>310210</mcc_mnc>
+            <mcc_mnc>310220</mcc_mnc>
+            <mcc_mnc>310230</mcc_mnc>
+            <mcc_mnc>310240</mcc_mnc>
+            <mcc_mnc>310250</mcc_mnc>
+            <mcc_mnc>310260</mcc_mnc>
+            <mcc_mnc>310270</mcc_mnc>
+            <mcc_mnc>310310</mcc_mnc>
+            <mcc_mnc>310490</mcc_mnc>
+            <mcc_mnc>310660</mcc_mnc>
+            <mcc_mnc>310800</mcc_mnc>
+        </carrier>
+        <carrier name="SPR">
+            <mcc_mnc>310120</mcc_mnc>
+            <mcc_mnc>312530</mcc_mnc>
+        </carrier>
+    </carriers>
+</carrierInfo>

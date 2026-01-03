@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଆପଣଙ୍କ ଫୋନର ସେବା ପ୍ରଦାନକାରୀ ସେଟିଂସ୍ ଅପଡେଟ୍ ହେବା ଆବଶ୍ୟକ। ଯଦି ଆପଣଙ୍କ ଫୋନ୍ %d ଦିନରେ ଅପଡେଟ୍ ହୋଇନାହିଁ, ଆପଣ କଲ୍ କରିବା, ସନ୍ଦେଶ ପ୍ରେରଣ, କିମ୍ବା ମୋବାଇଲ୍ ଡାଟା ବ୍ୟବହାର କରିବାକୁ ସମର୍ଥ ହେବେ ନାହିଁ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ଆପଣଙ୍କ ଫୋନର ସେବା ପ୍ରଦାନକାରୀ ସେଟିଂସ୍ ଅପଡେଟ୍ ହେବା ଆବଶ୍ୟକ। ଯଦି ଆପଣଙ୍କ ଫୋନ୍ %d ଦିନରେ ଅପଡେଟ୍ ହୋଇନାହିଁ, ଆପଣ କଲ୍ କରିବା, ସନ୍ଦେଶ ପ୍ରେରଣ, କିମ୍ବା ମୋବାଇଲ୍ ଡାଟା ବ୍ୟବହାର କରିବାକୁ ସମର୍ଥ ହେବେ ନାହିଁ।</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଆପଣଙ୍କ ଟ୍ୟାବଲେଟର ସେବା ପ୍ରଦାନକାରୀ ସେଟିଂସ୍ ଅପଡେଟ୍ ହେବା ଆବଶ୍ୟକ। ଯଦି ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ %d ଦିନରେ ଅପଡେଟ୍ ହୋଇନାହିଁ, ଆପଣ କଲ୍ କରିବା, ସନ୍ଦେଶ ପ୍ରେରଣ, କିମ୍ବା ମୋବାଇଲ୍ ଡାଟା ବ୍ୟବହାର କରିବାକୁ ସମର୍ଥ ହେବେ ନାହିଁ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ଆପଣଙ୍କ ଟ୍ୟାବଲେଟର ସେବା ପ୍ରଦାନକାରୀ ସେଟିଂସ୍ ଅପଡେଟ୍ ହେବା ଆବଶ୍ୟକ। ଯଦି ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ %d ଦିନରେ ଅପଡେଟ୍ ହୋଇନାହିଁ, ଆପଣ କଲ୍ କରିବା, ସନ୍ଦେଶ ପ୍ରେରଣ, କିମ୍ବା ମୋବାଇଲ୍ ଡାଟା ବ୍ୟବହାର କରିବାକୁ ସମର୍ଥ ହେବେ ନାହିଁ।</item>
+    </plurals>
+</resources>

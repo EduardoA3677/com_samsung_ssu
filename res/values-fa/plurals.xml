@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">تنظیمات ارائه دهنده سرویس گوشی شما باید به‌روزرسانی شود. اگر گوشی شما ظرف %d روز به‌روزرسانی نشود، نمی‌توانید تماس بگیرید، پیام بفرستید یا از اینترنت همراه استفاده کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">تنظیمات ارائه دهنده سرویس گوشی شما باید به‌روزرسانی شود. اگر گوشی شما ظرف %d روز به‌روزرسانی نشود، نمی‌توانید تماس بگیرید، پیام بفرستید یا از اینترنت همراه استفاده کنید.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">تنظیمات ارائه دهنده سرویس تبلت شما باید به‌روزرسانی شود. اگر تبلت شما ظرف %d روز به‌روزرسانی نشود، نمی‌توانید تماس بگیرید، پیام بفرستید یا از اینترنت همراه استفاده کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">تنظیمات ارائه دهنده سرویس تبلت شما باید به‌روزرسانی شود. اگر تبلت شما ظرف %d روز به‌روزرسانی نشود، نمی‌توانید تماس بگیرید، پیام بفرستید یا از اینترنت همراه استفاده کنید.</item>
+    </plurals>
+</resources>

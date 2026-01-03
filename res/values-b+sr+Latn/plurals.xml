@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Podešavanja usluga provajdera za telefon treba da se ažuriraju. Ako ne ažurirate telefon za %d dan, nećete moći da upućujete pozive, šaljete poruke ili koristite mobilne podatke.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Podešavanja usluga provajdera za telefon treba da se ažuriraju. Ako ne ažurirate telefon za %d dana, nećete moći da upućujete pozive, šaljete poruke ili koristite mobilne podatke.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Podešavanja usluga provajdera za telefon treba da se ažuriraju. Ako ne ažurirate telefon za %d dana, nećete moći da upućujete pozive, šaljete poruke ili koristite mobilne podatke.</item>
+    </plurals>
+    <plurals name="ssu_temp_unlock_notify_carrier_msg_tablet_la">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Podešavanja usluga provajdera za tablet treba da se ažuriraju. Ako ne ažurirate tablet za %d dan, nećete moći da upućujete pozive, šaljete poruke ili koristite mobilne podatke.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Podešavanja usluga provajdera za tablet treba da se ažuriraju. Ako ne ažurirate tablet za %d dana, nećete moći da upućujete pozive, šaljete poruke ili koristite mobilne podatke.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Podešavanja usluga provajdera za tablet treba da se ažuriraju. Ako ne ažurirate tablet za %d dana, nećete moći da upućujete pozive, šaljete poruke ili koristite mobilne podatke.</item>
+    </plurals>
+</resources>
