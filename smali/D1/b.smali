@@ -49,37 +49,37 @@
 
     new-instance v17, LD1/b;
 
-    const/4 v14, 0x1
+    const/4 v14, 0x0
 
-    const/4 v15, 0x1
+    const/4 v15, 0x0
 
     const-string v1, ""
 
     move-object v2, v1
 
-    const/4 v3, 0x1
+    const/4 v3, 0x0
 
-    const/4 v4, 0x1
+    const/4 v4, 0x0
 
-    const/4 v5, 0x1
+    const/4 v5, 0x0
 
-    const/4 v6, 0x1
+    const/4 v6, 0x0
 
-    const/4 v7, 0x1
+    const/4 v7, 0x0
 
-    const/4 v8, 0x1
+    const/4 v8, 0x0
 
-    const/4 v9, 0x1
+    const/4 v9, 0x0
 
-    const/4 v10, 0x1
+    const/4 v10, 0x0
 
-    const/4 v11, 0x1
+    const/4 v11, 0x0
 
-    const/4 v12, 0x1
+    const/4 v12, 0x0
 
-    const/4 v13, 0x1
+    const/4 v13, 0x0
 
-    const/16 v16, 0x1
+    const/16 v16, 0x0
 
     move-object/from16 v0, v17
 
@@ -455,9 +455,30 @@
 .method public final c()Z
     .locals 1
 
-    # Force return true to enable functionality
+    iget-object v0, p0, LD1/b;->b:Ljava/lang/String;
+
+    invoke-interface {v0}, Ljava/lang/CharSequence;->length()I
+
+    move-result v0
+
+    if-lez v0, :cond_0
+
+    iget-object v0, p0, LD1/b;->a:Ljava/lang/String;
+
+    invoke-interface {v0}, Ljava/lang/CharSequence;->length()I
+
+    move-result v0
+
+    if-lez v0, :cond_0
+
     const/4 v0, 0x1
 
+    goto :goto_0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    :goto_0
     return v0
 .end method
 
