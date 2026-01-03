@@ -122,7 +122,7 @@
 
     invoke-virtual {p0}, Landroid/app/Activity;->finishAndRemoveTask()V
 
-    goto :goto_0
+    return-void
 
     :catch_0
     move-exception v0
