@@ -59,7 +59,7 @@
 
     move-result-object v1
 
-    const/4 v2, 0x0
+    const/4 v2, 0x1
 
     invoke-virtual {v1, v2}, Lcom/samsung/android/settings/external/DynamicMenuData$Builder;->setVisible(Z)Lcom/samsung/android/settings/external/DynamicMenuData$Builder;
 
