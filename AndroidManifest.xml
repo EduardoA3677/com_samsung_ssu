@@ -69,7 +69,7 @@
             <meta-data android:name="com.android.settings.PREFERENCE_TYPE" android:value="PreferenceCategory"/>
             <meta-data android:name="com.android.settings.order" android:value="9001"/>
         </activity-alias>
-        <activity android:exported="false" android:name="com.samsung.ssu.unlock.SsuHelpActivity" android:theme="@style/SsuActivity.HelpActivity"/>
+        <activity android:exported="true" android:name="com.samsung.ssu.unlock.SsuHelpActivity" android:theme="@style/SsuActivity.HelpActivity"/>
         <activity android:exported="true" android:name="com.samsung.ssu.lock.SsuKeystringActivity" android:theme="@style/AppPreferenceTheme"/>
         <activity android:exported="true" android:name="com.samsung.ssu.lock.SsuNetworkLock" android:theme="@style/SsuTransparent">
             <intent-filter>
